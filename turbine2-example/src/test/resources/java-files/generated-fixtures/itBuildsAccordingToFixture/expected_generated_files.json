@@ -1,0 +1,14 @@
+[
+  {
+    "inputFiles" : [
+      "ExampleAnnotatedClass.java",
+      "ExampleImmutableIF.java",
+      "OtherAnnotatedClass.java",
+      "OtherImmutableIF.java"
+    ],
+    "expectedOutputFiles" : [
+      "/SOURCE_OUTPUT/com/hubspot/turbine2/example/ExampleAnnotatedClassTest.java",
+      "/SOURCE_OUTPUT/com/hubspot/turbine2/example/OtherAnnotatedClassTest.java"
+    ]
+  }
+]
