@@ -1,0 +1,10 @@
+[
+  {
+    "inputFiles" : [
+      "BasicImmutableIF.java"
+    ],
+    "expectedOutputFiles" : [
+      "/SOURCE_OUTPUT/com/hubspot/turbine/testing/BasicImmutable.java"
+    ]
+  }
+]
