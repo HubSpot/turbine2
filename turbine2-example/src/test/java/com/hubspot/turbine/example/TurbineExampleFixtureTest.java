@@ -23,7 +23,7 @@ public class TurbineExampleFixtureTest extends BaseCompilationFixtureTest {
 
   @Override
   protected FixtureTestMode getTestMode() {
-    return FixtureTestMode.GENERATE_FIXTURES;
+    return FixtureTestMode.EVALUATE;
   }
 
   @Test
